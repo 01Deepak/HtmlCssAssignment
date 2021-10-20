@@ -87,7 +87,7 @@
 
 #section1{
     /* background-color: rgb(243 243 239); */
-    background: url("bg3.jpg");
+    background: url("../img/bg3.jpg");
     display: flex;
     flex-direction: column;
     /* margin: 1rem 14rem 1rem 44rem; */
@@ -236,7 +236,7 @@ height: 90px;
 /***************************** section 3 css ********************************/
 #section3{
     /* background-color: rgb(243 243 239); */
-    background: url("bg7.jpg");
+    background: url("../img/bg7.jpg");
     display: flex;
     flex-direction: column;
     /* margin: 1rem 14rem 1rem 44rem; */
